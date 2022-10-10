@@ -19,7 +19,7 @@ break;
 
 else if (isernum>num)
 {
-System.out.println("Your num is greater");
+
 }
 else 
 {

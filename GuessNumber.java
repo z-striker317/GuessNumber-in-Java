@@ -27,7 +27,4 @@ System.out.println("Your num is less");
 }
 }
 while(unum>=0);
-}
-System.out.println("The num was" + num);
-}
-}
+

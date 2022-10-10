@@ -23,7 +23,7 @@ System.out.println("Your num is greater");
 }
 else 
 {
-
+  System.out.println("Your num is less");
 }
 }
 while(unum>=0);

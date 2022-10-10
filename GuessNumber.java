@@ -29,7 +29,7 @@ System.out.println("Your num is less");
 
   
   }
-System.out.println("The num was" + num);
+
 }
 }
 
